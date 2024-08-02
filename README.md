@@ -50,8 +50,10 @@
 </div>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&text=The%20future%20of%20AI%20depends%20on%20our%20ability%20to%20build%20ethical%20systems" alt="AI & ML Quote" />
 </p>
+
+
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
