@@ -56,7 +56,7 @@
 <h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="mailto:borahadarsh@gmail.com" target="_blank">
-    <img align="center" src="https://github.com/AdarshJ3008/AdarshJ3008/blob/main/assets/gmail.png" alt="mail" height="50" width="55" />
+    <img align="center" src="assests/gmail.png" alt="mail" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adarsh-jaiswal-253100259/" target="_blank">
