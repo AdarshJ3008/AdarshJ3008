@@ -1,40 +1,66 @@
-# Hi, I'm [Adarsh Jaiswal](https://github.com/AdarshJ3008) 👋
+<p align="center">
+  <img src="https://github.com/AdarshJ3008/AdarshJ3008/blob/main/header.png" alt="Header Image"/>
+</p>
 
-## 🚀 About Me
-- 🌱 I’m currently learning **Machine Learning** and **AI**.
-- 💼 I’m working on **health-related prediction models**.
-- 🎓 I’m a final-year **Computer Science and Engineering** student.
-- 📫 Reach me at: [borahadarsh@gmail.com](mailto:borahadarsh@gmail.com)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Adarsh+Jaiswal;Machine+Learning+Engineer" width="auto" height="35"/>
+</p>
 
-## 🛠 Skills
-- **Languages**: Python, JavaScript
-- **Libraries/Frameworks**: TensorFlow, PyTorch
-- **Tools**: Git, Docker
-- **Data Science**: Machine Learning, Deep Learning, Data Visualization
+<p align="center">
+  <img alt="Coding GIF" width="300" height="auto" src="https://github.com/AdarshJ3008/AdarshJ3008/blob/main/coding.gif"/>
+</p>
 
-## 📊 GitHub Stats
-![Adarsh Jaiswal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdarshJ3008&show_icons=true&hide_title=true&hide=prs,issues&count_private=true&theme=radical)
+<h3 align="center">My Interests</h3>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Artificial+Intelligence;Machine+Learning;Data+Science" width="auto" height="35"/>
+</p>
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=AdarshJ3008&theme=darkhub&column=7)](https://github.com/AdarshJ3008)
+<p align="center">Currently learning - Artificial Intelligence and Machine Learning</p>
+<p align="center">Currently working on - Private Projects</p>
 
-## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/adarsh-jaiswal-253100259/)
-- 📧 [Gmail](mailto:borahadarsh@gmail.com)
+<h3 align="center">Most Wanted Language</h3>
+<p align="center">
+  <a href="https://github.com/AdarshJ3008/python-practice.git" target="_blank">
+    <img align="center" src="https://github.com/AdarshJ3008/AdarshJ3008/blob/main/python.png" alt="Python" height="65" width="65" />
+  </a>
+</p>
 
-## 🚀 Projects
-- **[Aerial Image Classification](https://github.com/AdarshJ3008/Aerial-Image-Classification)**: Developed a model using CNN to classify satellite images.
-- **[Tuberculosis Detection](https://github.com/AdarshJ3008/tb-detection)**: Built a CNN model to detect TB from chest X-rays.
-- **[Chatroom](https://github.com/AdarshJ3008/Chatroom)**: Built a chatroom application.
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdarshJ3008&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&hide=html,css,jupyter%20notebook,pug,jinja" alt="Top Languages"/>
+</p>
 
-## 🌟 Top Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AdarshJ3008&repo=Aerial-Image-Classification)](https://github.com/AdarshJ3008/Aerial-Image-Classification)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AdarshJ3008&repo=Chatroom)](https://github.com/AdarshJ3008/Chatroom)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AdarshJ3008&repo=tb-detection)](https://github.com/AdarshJ3008/tb-detection)
+<p align="center">
+  <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AdarshJ3008&hide_border=true&theme=transparent" /> 
+</p>
 
-## 💡 Fun Fact
-- 🎮 I enjoy playing Freefire and cricket in my free time!
+<!--Trophy-->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdarshJ3008&no-bg=true&no-frame=true&row=2&column=3"/>
+</div>
 
-## 📄 Recent Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<div align="center">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdarshJ3008&theme=transparent" height="180em" alt="Stats"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdarshJ3008&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Commits Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdarshJ3008&theme=transparent&exclude=html,CSS,Jupyter%20Notebook" height="180em" alt="Most Repo Languages"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdarshJ3008&theme=transparent&utcOffset=5.30" height="180em" alt="Time Graph"/>
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdarshJ3008&theme=transparent" height="180em" alt="Commitments"/>
+</div>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
+</p>
+
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="mailto:borahadarsh@gmail.com" target="_blank">
+    <img align="center" src="https://github.com/AdarshJ3008/AdarshJ3008/blob/main/gmail.png" alt="mail" height="50" width="55" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/adarsh-jaiswal-253100259/" target="_blank">
+    <img align="center" src="https://github.com/AdarshJ3008/AdarshJ3008/blob/main/linkedin.png" alt="linkedin" height="60" width="60" />
+  </a>
+</p>
+
+<p align="right">
+  <a href="#top"><img src="https://img.shields.io/static/v1?label&message=Go+to+Top&color=0b6ab3&style=flat&logo" alt="Go to Top" /></a>
+</p>
