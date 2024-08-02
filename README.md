@@ -1,5 +1,8 @@
+<!-- Add this anchor tag at the very top of your README -->
+<a name="top"></a>
+
 <p align="center">
-  <img src="https://github.com/AdarshJ3008/AdarshJ3008/blob/main/header.png" alt="Header Image"/>
+  <img src="https://github.com/AdarshJ3008/AdarshJ3008/blob/main/assets/header.png" alt="Header Image"/>
 </p>
 
 <p align="center">
@@ -7,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img alt="Coding GIF" width="300" height="auto" src="https://github.com/AdarshJ3008/AdarshJ3008/blob/main/coding.gif"/>
+  <img alt="Coding GIF" width="300" height="auto" src="assests/coding.gif"/>
 </p>
 
 <h3 align="center">My Interests</h3>
@@ -21,7 +24,7 @@
 <h3 align="center">Most Wanted Language</h3>
 <p align="center">
   <a href="https://github.com/AdarshJ3008/python-practice.git" target="_blank">
-    <img align="center" src="https://github.com/AdarshJ3008/AdarshJ3008/blob/main/python.png" alt="Python" height="65" width="65" />
+    <img align="center" src="assests/python.png" alt="Python" height="65" width="65" />
   </a>
 </p>
 
@@ -53,11 +56,11 @@
 <h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="mailto:borahadarsh@gmail.com" target="_blank">
-    <img align="center" src="https://github.com/AdarshJ3008/AdarshJ3008/blob/main/gmail.png" alt="mail" height="50" width="55" />
+    <img align="center" src="https://github.com/AdarshJ3008/AdarshJ3008/blob/main/assets/gmail.png" alt="mail" height="50" width="55" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/adarsh-jaiswal-253100259/" target="_blank">
-    <img align="center" src="https://github.com/AdarshJ3008/AdarshJ3008/blob/main/linkedin.png" alt="linkedin" height="60" width="60" />
+    <img align="center" src="assests/linkedin.png" alt="linkedin" height="60" width="60" />
   </a>
 </p>
 
