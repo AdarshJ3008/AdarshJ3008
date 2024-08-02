@@ -2,7 +2,7 @@
 <a name="top"></a>
 
 <p align="center">
-  <img src="https://github.com/AdarshJ3008/AdarshJ3008/blob/main/assets/header.png" alt="Header Image"/>
+  <img src="assests/header.gif" alt="Header Image"/>
 </p>
 
 <p align="center">
