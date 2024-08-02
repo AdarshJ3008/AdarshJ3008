@@ -2,7 +2,7 @@
 <a name="top"></a>
 
 <p align="center">
-  <img src="assests/header.gif" alt="Header Image"/>
+  <img src="assests/header (1).gif" alt="Header Image"/>
 </p>
 
 <p align="center">
